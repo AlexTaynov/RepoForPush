@@ -5,7 +5,7 @@ on:
       - '*'
 
 env:
-  TOKEN: Bearer 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
+  TOKEN: Bearer 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
 
 jobs:
   trigger-workflow:
