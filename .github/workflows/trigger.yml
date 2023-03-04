@@ -5,7 +5,7 @@ on:
       - '*'
 
 env:
-  TOKEN: ${{ secrets.REPO_B_TOKEN }}
+  TOKEN: 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
 
 jobs:
   trigger-workflow:
