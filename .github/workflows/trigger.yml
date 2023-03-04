@@ -4,7 +4,7 @@ on:
     types: [trigger]
 
 jobs:
-  trigger-workflow:
+  trigger:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Workflow in Repository B
